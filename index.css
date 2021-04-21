@@ -1,0 +1,27 @@
+.center-container {
+  text-align: center;
+}
+
+h1 {
+  padding: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 100px;
+  width: 80%;
+  margin: auto;
+  margin-top: 10px !important;
+  margin-bottom: 30px !important;
+}
+
+.btns-list {
+  width: 80% !important;
+  margin: auto !important;
+  margin-top: 39px !important;
+}
+
+.btn-perso {
+  color: #fff;
+  background-color: #1e2e40 !important;
+  border-color: #1e2e40 !important;
+  width: -webkit-fill-available !important;
+}
